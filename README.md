@@ -35,7 +35,7 @@ us a question](https://github.com/18F/10X-Users-First/issues/new).
 
 ## Public domain
 
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](https://github.com/18F/10x-Users-First/blob/master/CONTRIBUTING.md):
+This project is in the worldwide [public domain](https://github.com/18F/10X-Users-First/blob/master/License.md). As stated in [CONTRIBUTING](https://github.com/18F/10x-Users-First/blob/master/CONTRIBUTING.md):
 
 > This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 >
