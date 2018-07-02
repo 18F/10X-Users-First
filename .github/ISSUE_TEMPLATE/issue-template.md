@@ -1,6 +1,6 @@
 ---
 name: ISSUE TEMPLATE
-about: Template for issues
+about: Template
 
 ---
 
