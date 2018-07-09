@@ -13,16 +13,10 @@ This is the repository for the 10X project Users First, a government-wide user c
 
 ## Resources
 
+- For more information about our vision and on-going work for this phase, visit [our wiki](https://github.com/18F/10X-Users-First/wiki).
+- [Phase 2 Google Drive project folder](https://drive.google.com/drive/folders/1D83lpoenuKBZFNyz63uVLMA1eBIIGC8x)
 - [Phase 1 Investigation report](https://docs.google.com/document/d/1HxCFhc27NguZwervykWLG8NMLAryWoPFQ1BiPKe-yAI/edit#)
 - [Phase 1 Google Drive project folder](https://drive.google.com/drive/folders/1wQ-_JfWwVz9Td4Qv2Q9U9j730x5b1-EM)
-- [Phase 2 Google Drive project folder](https://drive.google.com/drive/folders/1D83lpoenuKBZFNyz63uVLMA1eBIIGC8x)
-- [On-going meta project notes](https://docs.google.com/document/d/1CuX_P09S-PF3z6MGOqYIXBfuWp-BnOaNYy2vXcB8djk/edit#)
-- [Research plan](https://docs.google.com/document/d/1SxXfDC_V0Jfogwn1G9MieGC4ZKCnWBgLJ7LMIn478F4/edit#)
-- Research notes
-
-## Progress
-
-Under development!
 
 ## Contributing
 
